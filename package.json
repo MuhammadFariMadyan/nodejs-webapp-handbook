@@ -1,0 +1,10 @@
+{
+  "license": "MIT",
+  "scripts": {
+    "TODO: //": "Don't trigger `gitbook install` every build",
+    "build": "gitbook install && gitbook build"
+  },
+  "devDependencies": {
+    "gitbook-cli": "2.3.2"
+  }
+}
