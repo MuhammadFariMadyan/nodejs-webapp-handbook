@@ -1,5 +1,11 @@
 {
   "plugins": [
+    "pageload-analytics",
     "exercises"
-  ]
+  ],
+  "pluginsConfig": {
+    "pageload-analytics": {
+      "token": "UA-131540514-2"
+    }
+  }
 }
