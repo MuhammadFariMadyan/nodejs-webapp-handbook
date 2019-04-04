@@ -16,9 +16,8 @@
 
 ## Chapter 1 - Backend Framework (Fastify)
 
-- [Apa dan Mengapa Fastify]()
-- [Menulis unit test]()
-- [Hello World di Fastify]()
+- [Apa dan Mengapa Fastify](chapter-1/apa-dan-mengapa-fastify.md)
+- [Menulis unit test](chapter-1/unit-test-fastify.md)
 - [Membuat module]()
 - [TBD]()
 
