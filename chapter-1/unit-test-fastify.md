@@ -133,4 +133,7 @@ module.exports = bootstrap
 
 ![](../img/test3.png)
 
-Cool.
+Cool. Sekilas gampang ya, tapi ini hanya permulaan kok. Dan biasanya kita bingung _apa saja sih yang
+harus kita test?_, ya apa aja. Sesuka kita. Sesuai spesifikasi yang kita miliki, berikut batasannya.
+Pembahasan seputar testing akan kita bahas lebih dalam ketika kita sudah membuat module agar lebih
+terbayang.
