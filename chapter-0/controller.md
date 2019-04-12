@@ -213,7 +213,7 @@ user request sampai server kita meresponse.
 ![](../img/router-akhir.png)
 
 Not bad lah ya. Semoga sampai sini sudah mengerti sedikit tentang konsep Controller ya. Sekarang
-mari kita move on ke Model! Sebelumnya, bisa coba _excersise_ dibawah terlebih dahulu.
+mari kita move on ke Model! Sebelumnya, bisa coba _exercise_ dibawah terlebih dahulu.
 
 {% exercise %}
 

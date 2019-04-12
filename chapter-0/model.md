@@ -97,7 +97,7 @@ Maksudnya, ketika kita ubah menjadi ke `/pesan/?jenis=rebus`, maka yang muncul a
 karena kita tidak membuat controller untuk menghandle route itu ataupun tidak menghandle routing
 tersebut secara dinamis. Namun untuk sekarang kita skip terlebih dahulu, agar fokus ke model.
 
-Pada bahasan ini kita tidak ada excercise dulu ya. Karena membahas model terlalu "abstrak".
+Pada bahasan ini kita tidak ada exercise dulu ya. Karena membahas model terlalu "abstrak".
 
 ## Referensi
 

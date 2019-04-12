@@ -19,7 +19,7 @@ Jadi kita tidak perlu membuat contoh kode untuk ini ya.
 ## HTML
 
 Sekarang mari kita menggunakan tag `<h2>` untuk menampilkan "Tentang kamu" dengan element heading
-level 2. 
+level 2.
 
 ```diff
 function handleAbout (req, res) {
@@ -91,7 +91,7 @@ fetch('http://localhost:3000/pesan/?jenis=goreng')
   })
 ```
 
-Dan itu adalah urusan anak frontend ya haha. Disinipun kita tidak akan excercise, karena terlalu
+Dan itu adalah urusan anak frontend ya haha. Disinipun kita tidak akan exercise, karena terlalu
 "Visual".
 
 ## Referensi
